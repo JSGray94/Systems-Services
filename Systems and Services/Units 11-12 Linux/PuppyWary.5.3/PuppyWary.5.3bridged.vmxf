@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 c1 6c 44 1e a9 25 b4-b9 29 7c d2 19 21 ac 35</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">PuppyWary.5.3bridged.vmx</vmxPathName></VM></Foundry>

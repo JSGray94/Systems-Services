@@ -1,0 +1,56 @@
+#!/bin/sh
+#Author 40087220
+#	Jordaan Gray
+#Linux Coursework
+#Restoration Script.
+#
+
+#Create a string holding the path location of the dustbin
+dustbin=$HOME/my-applications/Dustbin/$1
+
+#A string that holds the location of the .txt file that holds pathnames
+pathsave=$HOME/my-applications/Dustbin/PathSave.txt
+
+#Move filename from the dustbin directory back to original location
+#Check to see if the file exists inside the Dustbin directory
+	echo "You want to restore file $1 from the dustbin to its original location"
+	echo
+	echo "Checking file name..."
+	echo
+	
+if test -f $dustbin ; then	#Checks to see if file exists in dustbin.
+	echo "This file DOES exist"
+	echo
+	echo "Restoring file to original location"
+	echo
+#Move file back to its original location.
+#Read the pathname from PathSave.txt file.
+saveuser=`grep $1 $pathsave`
+	echo "The original path of this file is..."
+	echo "$saveuser"
+	echo
+	
+#Move the file back to its original location
+mv $dustbin $saveuser
+	echo "File has been restored to its original loction"
+	
+else
+if test -d $dustbin ; then	#Checks to see if dir exists in dustbin
+	echo "This directory DOES exist."
+	echo
+	echo "Restoring directory to its original location."
+	echo
+#Move file back to its original location
+#Read pathname from PathSave.txt file.
+saveuser=`grep $1 $pathsave`
+	echo "The original path of this directory is..."
+	echo "$saveuser"
+	echo
+	
+#Move file back to its original location
+mv $dustbin $saveuser
+	echo "Directory has been restored to original location"
+else
+	echo "This file or directory does NOT exist in the dustbin.
+fi
+fi

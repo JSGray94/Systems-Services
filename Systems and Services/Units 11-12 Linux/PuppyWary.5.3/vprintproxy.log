@@ -1,0 +1,297 @@
+2014-11-03T16:03:19.111Z| vthread-3| I120: Log for VMware Workstation pid=5720 version=10.0.0 build=build-1295980 option=Release
+2014-11-03T16:03:19.111Z| vthread-3| I120: The process is 32-bit.
+2014-11-03T16:03:19.111Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-03T16:03:19.111Z| vthread-3| I120: Host is Windows 7 Professional, 64-bit Service Pack 1 (Build 7601)
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-11-03T16:03:19.096Z| vthread-3| I120: Msg_Reset:
+2014-11-03T16:03:19.096Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\40087220\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2014-11-03T16:03:19.096Z| vthread-3| I120: ----------------------------------------
+2014-11-03T16:03:19.096Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\40087220\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-03T16:03:19.096Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-03T16:03:19.127Z| vthread-3| I120: Started, process id = 5720
+2014-11-03T16:03:19.127Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5748.41.0
+2014-11-03T16:03:19.127Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.5748.18467.1
+2014-11-03T16:03:19.127Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-03T16:03:19.174Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-03T16:03:19.174Z| vthread-3| I120: Got entry/stop functions
+2014-11-03T16:03:19.174Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-03T16:03:19.455Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5748.18467.1" ...
+2014-11-03T17:18:37.021Z| vthread-3| I120: Mutex signalled
+2014-11-03T17:18:37.021Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-03T17:18:37.721Z| vthread-3| I120: Cleaned up OK
+2014-11-03T17:18:37.721Z| vthread-3| I120: Exit
+2014-11-10T16:23:07.046Z| vthread-3| I120: Log for VMware Workstation pid=5920 version=10.0.0 build=build-1295980 option=Release
+2014-11-10T16:23:07.046Z| vthread-3| I120: The process is 32-bit.
+2014-11-10T16:23:07.046Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-10T16:23:07.046Z| vthread-3| I120: Host is Windows 7 Professional, 64-bit Service Pack 1 (Build 7601)
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2014-11-10T16:23:07.031Z| vthread-3| I120: Msg_Reset:
+2014-11-10T16:23:07.031Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\40087220\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2014-11-10T16:23:07.031Z| vthread-3| I120: ----------------------------------------
+2014-11-10T16:23:07.031Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\40087220\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-10T16:23:07.031Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-10T16:23:07.046Z| vthread-3| I120: Started, process id = 5920
+2014-11-10T16:23:07.046Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.1384.41.0
+2014-11-10T16:23:07.046Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.1384.18467.1
+2014-11-10T16:23:07.046Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-10T16:23:07.077Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-10T16:23:07.077Z| vthread-3| I120: Got entry/stop functions
+2014-11-10T16:23:07.077Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-10T16:23:07.233Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.1384.18467.1" ...
+2014-11-10T16:56:32.360Z| vthread-3| I120: Mutex signalled
+2014-11-10T16:56:32.360Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-10T16:56:33.099Z| vthread-3| I120: Cleaned up OK
+2014-11-10T16:56:33.099Z| vthread-3| I120: Exit
+2014-11-13T21:13:06.635Z| vthread-3| I120: Log for VMware Workstation pid=3596 version=10.0.1 build=build-1379776 option=Release
+2014-11-13T21:13:06.635Z| vthread-3| I120: The process is 32-bit.
+2014-11-13T21:13:06.635Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-13T21:13:06.635Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-13T21:13:06.620Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-13T21:13:06.620Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-13T21:13:06.620Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-13T21:13:06.620Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-13T21:13:06.620Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-13T21:13:06.620Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-13T21:13:06.620Z| vthread-3| I120: Msg_Reset:
+2014-11-13T21:13:06.620Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-13T21:13:06.620Z| vthread-3| I120: ----------------------------------------
+2014-11-13T21:13:06.620Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-13T21:13:06.635Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-13T21:13:06.635Z| vthread-3| I120: Msg_Reset:
+2014-11-13T21:13:06.635Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\preferences.ini": Unknown error 2 (0x2).
+2014-11-13T21:13:06.635Z| vthread-3| I120: ----------------------------------------
+2014-11-13T21:13:06.635Z| vthread-3| I120: PREF Failed to load user preferences.
+2014-11-13T21:13:06.635Z| vthread-3| I120: Started, process id = 3596
+2014-11-13T21:13:06.635Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5864.41.0
+2014-11-13T21:13:06.635Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.5864.18467.1
+2014-11-13T21:13:06.635Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-13T21:13:06.651Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-13T21:13:06.651Z| vthread-3| I120: Got entry/stop functions
+2014-11-13T21:13:06.651Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-13T21:13:07.464Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5864.18467.1" ...
+2014-11-13T22:33:56.994Z| vthread-3| I120: Log for VMware Workstation pid=2172 version=10.0.1 build=build-1379776 option=Release
+2014-11-13T22:33:56.994Z| vthread-3| I120: The process is 32-bit.
+2014-11-13T22:33:56.994Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-13T22:33:56.994Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-13T22:33:56.978Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-13T22:33:56.978Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-13T22:33:56.978Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-13T22:33:56.978Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-13T22:33:56.978Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-13T22:33:56.978Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-13T22:33:56.978Z| vthread-3| I120: Msg_Reset:
+2014-11-13T22:33:56.978Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-13T22:33:56.978Z| vthread-3| I120: ----------------------------------------
+2014-11-13T22:33:56.978Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-13T22:33:56.994Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-13T22:33:56.994Z| vthread-3| I120: Started, process id = 2172
+2014-11-13T22:33:56.994Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5472.41.0
+2014-11-13T22:33:56.994Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.5472.18467.1
+2014-11-13T22:33:56.994Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-13T22:33:56.994Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-13T22:33:56.994Z| vthread-3| I120: Got entry/stop functions
+2014-11-13T22:33:56.994Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-13T22:33:57.056Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5472.18467.1" ...
+2014-11-13T23:06:04.686Z| vthread-3| I120: Mutex signalled
+2014-11-13T23:06:04.686Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-13T23:06:05.561Z| vthread-3| I120: Cleaned up OK
+2014-11-13T23:06:05.561Z| vthread-3| I120: Exit
+2014-11-23T15:23:32.871Z| vthread-3| I120: Log for VMware Workstation pid=6952 version=10.0.1 build=build-1379776 option=Release
+2014-11-23T15:23:32.871Z| vthread-3| I120: The process is 32-bit.
+2014-11-23T15:23:32.871Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-23T15:23:32.871Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-23T15:23:32.184Z| vthread-3| I120: Msg_Reset:
+2014-11-23T15:23:32.184Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-23T15:23:32.184Z| vthread-3| I120: ----------------------------------------
+2014-11-23T15:23:32.184Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-23T15:23:32.184Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-23T15:23:32.871Z| vthread-3| I120: Started, process id = 6952
+2014-11-23T15:23:32.871Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5136.41.0
+2014-11-23T15:23:32.871Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.5136.18467.1
+2014-11-23T15:23:32.871Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-23T15:23:32.939Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-23T15:23:32.939Z| vthread-3| I120: Got entry/stop functions
+2014-11-23T15:23:32.939Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-23T15:23:33.390Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5136.18467.1" ...
+2014-11-24T00:37:37.998Z| vthread-3| I120: Mutex signalled
+2014-11-24T00:37:38.154Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-24T00:37:42.507Z| vthread-3| I120: Cleaned up OK
+2014-11-24T00:37:42.507Z| vthread-3| I120: Exit
+2014-11-24T21:16:40.131Z| vthread-3| I120: Log for VMware Workstation pid=4632 version=10.0.1 build=build-1379776 option=Release
+2014-11-24T21:16:40.131Z| vthread-3| I120: The process is 32-bit.
+2014-11-24T21:16:40.131Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-24T21:16:40.131Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-24T21:16:39.468Z| vthread-3| I120: Msg_Reset:
+2014-11-24T21:16:39.468Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-24T21:16:39.468Z| vthread-3| I120: ----------------------------------------
+2014-11-24T21:16:39.468Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-24T21:16:39.468Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-24T21:16:40.131Z| vthread-3| I120: Started, process id = 4632
+2014-11-24T21:16:40.131Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.1512.41.0
+2014-11-24T21:16:40.131Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.1512.18467.1
+2014-11-24T21:16:40.131Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-24T21:16:40.131Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-24T21:16:40.131Z| vthread-3| I120: Got entry/stop functions
+2014-11-24T21:16:40.131Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-24T21:16:41.053Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.1512.18467.1" ...
+2014-11-25T02:21:12.329Z| vthread-3| I120: Mutex signalled
+2014-11-25T02:21:12.333Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-25T02:21:13.079Z| vthread-3| I120: Cleaned up OK
+2014-11-25T02:21:13.079Z| vthread-3| I120: Exit
+2014-11-25T02:21:39.693Z| vthread-3| I120: Log for VMware Workstation pid=5032 version=10.0.1 build=build-1379776 option=Release
+2014-11-25T02:21:39.693Z| vthread-3| I120: The process is 32-bit.
+2014-11-25T02:21:39.693Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-25T02:21:39.693Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T02:21:39.678Z| vthread-3| I120: Msg_Reset:
+2014-11-25T02:21:39.678Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-25T02:21:39.678Z| vthread-3| I120: ----------------------------------------
+2014-11-25T02:21:39.678Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-25T02:21:39.678Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-25T02:21:39.693Z| vthread-3| I120: Started, process id = 5032
+2014-11-25T02:21:39.693Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.4156.41.0
+2014-11-25T02:21:39.693Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.4156.18467.1
+2014-11-25T02:21:39.693Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-25T02:21:39.693Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-25T02:21:39.693Z| vthread-3| I120: Got entry/stop functions
+2014-11-25T02:21:39.693Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-25T02:21:39.740Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.4156.18467.1" ...
+2014-11-25T02:23:35.180Z| vthread-3| I120: Mutex signalled
+2014-11-25T02:23:35.180Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-25T02:23:35.951Z| vthread-3| I120: Cleaned up OK
+2014-11-25T02:23:35.951Z| vthread-3| I120: Exit
+2014-11-25T10:43:11.451Z| vthread-3| I120: Log for VMware Workstation pid=3224 version=10.0.1 build=build-1379776 option=Release
+2014-11-25T10:43:11.451Z| vthread-3| I120: The process is 32-bit.
+2014-11-25T10:43:11.451Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-25T10:43:11.451Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T10:43:11.451Z| vthread-3| I120: Msg_Reset:
+2014-11-25T10:43:11.451Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-25T10:43:11.451Z| vthread-3| I120: ----------------------------------------
+2014-11-25T10:43:11.451Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-25T10:43:11.451Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-25T10:43:11.451Z| vthread-3| I120: Started, process id = 3224
+2014-11-25T10:43:11.451Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.5812.41.0
+2014-11-25T10:43:11.451Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.5812.18467.1
+2014-11-25T10:43:11.451Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-25T10:43:11.451Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-25T10:43:11.451Z| vthread-3| I120: Got entry/stop functions
+2014-11-25T10:43:11.451Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-25T10:43:11.530Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.5812.18467.1" ...
+2014-11-25T10:44:59.192Z| vthread-3| I120: Mutex signalled
+2014-11-25T10:44:59.192Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-25T10:45:00.067Z| vthread-3| I120: Cleaned up OK
+2014-11-25T10:45:00.067Z| vthread-3| I120: Exit
+2014-11-25T10:46:28.578Z| vthread-3| I120: Log for VMware Workstation pid=6076 version=10.0.1 build=build-1379776 option=Release
+2014-11-25T10:46:28.578Z| vthread-3| I120: The process is 32-bit.
+2014-11-25T10:46:28.578Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-25T10:46:28.578Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-25T10:46:28.566Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T10:46:28.566Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T10:46:28.566Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T10:46:28.566Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T10:46:28.570Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T10:46:28.570Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T10:46:28.570Z| vthread-3| I120: Msg_Reset:
+2014-11-25T10:46:28.570Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-25T10:46:28.570Z| vthread-3| I120: ----------------------------------------
+2014-11-25T10:46:28.570Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-25T10:46:28.574Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-25T10:46:28.578Z| vthread-3| I120: Started, process id = 6076
+2014-11-25T10:46:28.578Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.7800.41.0
+2014-11-25T10:46:28.578Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.7800.18467.1
+2014-11-25T10:46:28.578Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-25T10:46:28.578Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-25T10:46:28.578Z| vthread-3| I120: Got entry/stop functions
+2014-11-25T10:46:28.578Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-25T10:46:28.650Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.7800.18467.1" ...
+2014-11-25T10:55:57.111Z| vthread-3| I120: Mutex signalled
+2014-11-25T10:55:57.111Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-25T10:55:57.835Z| vthread-3| I120: Cleaned up OK
+2014-11-25T10:55:57.835Z| vthread-3| I120: Exit
+2014-11-25T11:57:39.880Z| vthread-3| I120: Log for VMware Workstation pid=1108 version=10.0.1 build=build-1379776 option=Release
+2014-11-25T11:57:39.880Z| vthread-3| I120: The process is 32-bit.
+2014-11-25T11:57:39.880Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-25T11:57:39.880Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T11:57:39.193Z| vthread-3| I120: Msg_Reset:
+2014-11-25T11:57:39.193Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-25T11:57:39.193Z| vthread-3| I120: ----------------------------------------
+2014-11-25T11:57:39.193Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-25T11:57:39.193Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-25T11:57:39.880Z| vthread-3| I120: Started, process id = 1108
+2014-11-25T11:57:39.880Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.8768.41.0
+2014-11-25T11:57:39.880Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.8768.18467.1
+2014-11-25T11:57:39.880Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-25T11:57:39.880Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-25T11:57:39.880Z| vthread-3| I120: Got entry/stop functions
+2014-11-25T11:57:39.880Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-25T11:57:39.927Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.8768.18467.1" ...
+2014-11-25T12:09:23.333Z| vthread-3| I120: Mutex signalled
+2014-11-25T12:09:23.333Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-25T12:09:24.065Z| vthread-3| I120: Cleaned up OK
+2014-11-25T12:09:24.065Z| vthread-3| I120: Exit
+2014-11-25T22:28:38.561Z| vthread-3| I120: Log for VMware Workstation pid=8968 version=10.0.1 build=build-1379776 option=Release
+2014-11-25T22:28:38.561Z| vthread-3| I120: The process is 32-bit.
+2014-11-25T22:28:38.561Z| vthread-3| I120: Host codepage=windows-1252 encoding=windows-1252
+2014-11-25T22:28:38.561Z| vthread-3| I120: Host is Windows 8, 64-bit  (Build 9200)
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Unknown error 183 (0xb7) (183)
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Unknown error 183 (0xb7) (183)
+2014-11-25T22:28:38.561Z| vthread-3| I120: Msg_Reset:
+2014-11-25T22:28:38.561Z| vthread-3| I120: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\Jordan\AppData\Roaming\VMware\config.ini": Unknown error 2 (0x2).
+2014-11-25T22:28:38.561Z| vthread-3| I120: ----------------------------------------
+2014-11-25T22:28:38.561Z| vthread-3| I120: PREF Optional preferences file not found at C:\Users\Jordan\AppData\Roaming\VMware\config.ini. Using default values.
+2014-11-25T22:28:38.561Z| vthread-3| I120: FILE: FileLockDynaLink: Further process validation tools are: available
+2014-11-25T22:28:38.561Z| vthread-3| I120: Started, process id = 8968
+2014-11-25T22:28:38.561Z| vthread-3| I120:          pipe = \\.\pipe\vmware.vprint.6832.41.0
+2014-11-25T22:28:38.577Z| vthread-3| I120:          mutex = Global\vmware.vprint-s.6832.18467.1
+2014-11-25T22:28:38.577Z| vthread-3| I120: Path for TPClnVM.dll = 'C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll'
+2014-11-25T22:28:38.577Z| vthread-3| I120: Loaded TPClnVM.dll as C:\Program Files (x86)\VMware\VMware Workstation\TPClnVM.dll
+2014-11-25T22:28:38.577Z| vthread-3| I120: Got entry/stop functions
+2014-11-25T22:28:38.577Z| vthread-3| I120: Calling TP 'entry' function
+2014-11-25T22:28:38.640Z| vthread-3| I120: Waiting for mutex "Global\vmware.vprint-s.6832.18467.1" ...
+2014-11-26T02:17:47.802Z| vthread-3| I120: Mutex signalled
+2014-11-26T02:17:47.802Z| vthread-3| I120: Calling TP 'stop' function
+2014-11-26T02:17:48.594Z| vthread-3| I120: Cleaned up OK
+2014-11-26T02:17:48.594Z| vthread-3| I120: Exit

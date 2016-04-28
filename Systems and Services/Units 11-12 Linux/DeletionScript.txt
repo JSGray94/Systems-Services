@@ -1,0 +1,47 @@
+#!/bin/sh
+#Author 40087220
+#	Jordan Gray
+#Deletion Script
+#
+
+#Allow for the user to enter a parameter (File to be deleted).
+	echo "You have entered that the pathname to be deleted is $1"
+	echo
+	echo "Checking pathname..."
+	echo
+	
+#Create a variable that stores the path to the dustbin dir.
+pathsave=$HOME/my-applications/Dustbin/Pathsave.txt
+
+#Check to see if this pathname exists.
+if test -d $1 ; then
+	echo "This pathname DOES exists"
+	echo
+#Move the directory to the dustbin (deletion of the directory).
+	echo
+	echo "Moving this directory to the dustbin directory"
+mv $1 ~/my-applications/Dustbin
+	echo
+	echo "Your file has been moved to the Dustbin directory."
+	
+#Save the user path inputs to a blank file in the dustbin directory.
+	echo "$PWD/$1">>"$pathsave"
+	echo
+	echo"Pathsave.txt has been updated"
+	
+else
+if test -f $1 ; then		#Checks to see if it is a file
+	echo "This file DOES exist."
+	echo
+#Move file to the dustbin(deletion of the file).
+	echo "Moving this file to the dustbin directory..."
+mv $1 ~/my-applications/Dustbin
+	echo "$PWD/$1">>"$pathsave"	#Appends original path of deleted file to a blank file
+	echo
+	echo "PathSave.txt has been updated"
+	echo
+	echo "Your file has been moved to the Dustbin directory"
+else	#If the pathname does not exist print error message.
+	echo "This pathname does not exist.
+fi
+fi
